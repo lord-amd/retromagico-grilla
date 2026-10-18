@@ -1,0 +1,64 @@
+# ===========================================================
+#  GRILLA DE RETROMAGICO  -  Fuente única
+#  Editá las series debajo de cada sección [ENTRE CORCHETES].
+#  Formato de cada línea:   HH:MM hs - Nombre de la serie
+#  (podés pegar las líneas desordenadas; se ordenan solas)
+#  Las líneas que empiezan con # son comentarios y se ignoran.
+# ===========================================================
+
+[SEMANA]
+00:00 hs - Capitan Planeta
+00:30 hs - Guerreras Magicas
+01:00 hs - Donkey Kong Country
+01:30 hs - Power Rangers
+02:00 hs - El Show De La Pantera Rosa
+02:30 hs - Johnny Quest
+03:00 hs - Iron Man
+03:30 hs - Transformers
+04:00 hs - El Chavo del 8
+04:30 hs - Las Aventuras de Sonic El Erizo
+05:00 hs - Dragon Ball Z
+05:30 hs - Heathcliff
+06:00 hs - El Mundo de Beakman
+06:30 hs - Lady Oscar
+07:00 hs - Pokemon
+07:30 hs - Digimon
+
+[FINDE]
+00:00 hs - MTV Weekend
+02:00 hs - Maraton Cartoons
+07:30 hs - Batman del Futuro
+08:00 hs - Batman La Serie Animada
+08:30 hs - Garfield Y Sus Amigos
+09:00 hs - Daniel el Terrible
+09:30 hs - Capitan N El Amo del Juego
+10:00 hs - El Show de Super Mario Bros
+10:30 hs - Aladdin
+11:00 hs - Tiny Toons
+11:30 hs - Animaniacs
+12:00 hs - He-Man
+12:30 hs - She-Ra
+13:00 hs - El Auto Fantastico
+13:30 hs - Alf
+14:00 hs - Matinee Peliculas
+18:30 hs - Gi-Joe
+19:00 hs - Thundercats
+19:30 hs - Malcolm El De El Medio
+20:00 hs - Los Halcones Galacticos
+20:30 hs - Futurama
+21:00 hs - Los Simpsons
+21:30 hs - Los Simpsons
+22:00 hs - Cine Trasnoche
+
+# --- ESPECIALES (opcional) ---
+# Dejá la sección vacía y NO se activa (sigue la grilla normal).
+# Día completo (desde 00:00): 25MAYO y HALLOWEEN.
+# Noon-to-noon (desde 12:00): NAVIDAD (24->25 dic) y ANIONUEVO (31 dic->1 ene).
+
+[25MAYO]
+
+[HALLOWEEN]
+
+[NAVIDAD]
+
+[ANIONUEVO]
